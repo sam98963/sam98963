@@ -1,21 +1,34 @@
-### Hi there 👋
 
-**My name is Sam, just under four months ago, I began my journey into tech - via the School of Code bootcamp 🚀**
+<h2 align="center">My Stats</h1>
+<p align="center">
+<img height=195 src="https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C" alt="Sam Williamson's CodeWars stats"/>
+<img height=195 src="https://github-readme-stats.vercel.app/api?username=sam98963" alt="Sam Williamson's Github stats"/>
+</p>
+<p align="center">
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam98963" alt="Sam Williamson's Language stats"/>
+</p>
+<h2 align="center">My Stack</h1>
+<p align="center">
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
+<h2 align="center">Get in Touch or Follow my Journey</h2>
+<p align= "center">
+<a href="https://www.linkedin.com/in/samwilliamson2918/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@szwilliamson01"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://twitter.com/WilzoCodes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+</p>
+<h2 align="center">My Data</h1>
 
-- 🔭 I started my journey working on some simple web-design projects following a UI course on Udemy
-- 🌱 As well as learning HTML, CSS and Javascript on FreeCodeCamp. and will be learning more in the School of Code Bootcamp!
-- 🎮 I have some experience in videogame design within unreal engine, I created two games from scratch on UE4 and created all sounds to match!
-- 🏃🚲🏊‍♂️ My non-coding life consists of training for my first triathlon - which is on the 16th July 2023! 🏃🚲🏊‍♂️
-- ⚽️ I also love football (As a CFC fan), but love to play too!
-- 👨‍🍳 I'm a big fan of cooking, and spent a short time as a chef!
-- 🥾 Finally, I love hiking, exploring and resting in nature - breaking away from a digital-dominated life regularly, is important to me.
-- - 📫 How to reach me: Find me on [linkedIn](www.linkedin.com/in/samwilliamson2918)
-- 💯 I started the #100daysofcode challenge on Friday 10th March and have been uploading my progress, thoughts and ideas [here].(https://twitter.com/WilzoCodes) - the uploads will be personal projects and personal learning as much as possible - feel free to follow along!!
-- ✏️ I've also recently started writing a blog, which you can find [here](https://medium.com/@szwilliamson01).
-### 🐼
-
-![Codewars](https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam98963)](https://github.com/sam98963/github-readme-stats)
 
 ```yaml
 {
@@ -44,6 +57,11 @@ goalsForThisYear: [
 "Release First Commercial App",
 "AWS certification"
 ],
+socialMedia: [
+"LinkedIn - my life",
+"Twitter - 100 days of code and triathlon training",
+"Medium - personal blog"
+]
 hobbies: [
 "Trumpet",
 "Guitar",
