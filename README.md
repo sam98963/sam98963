@@ -8,7 +8,8 @@
 <h5 align="center">I’m a classically trained musician, triathlete, now ex-pizza chef and the final ingredient to becoming a full-stack person was learning full-stack development with the School of Code.
 </h5>
 <h6 align="center">⬇ Ooop, well here I am just, right below ⬇</h6>
-<img src="./Aquathlon.jpeg" border-radius="50%">
+<img src="./aquathloncircle.png" align="center" width="400">
+
 ##
 <p align="center">
 <img src="https://media.tenor.com/8DUxcU2bhFsAAAAC/dont-matter-dont-care.gif" width="1280"/>
