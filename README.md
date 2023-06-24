@@ -1,4 +1,8 @@
-
+<p align="center">
+<img src="./headerImage.svg" width="1280" >
+</p>
+<p align="center">
+<img src="https://media.tenor.com/8DUxcU2bhFsAAAAC/dont-matter-dont-care.gif" width="1280"/>
 <h2 align="center">My Stats</h1>
 <p align="center">
 <img height=195 src="https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C" alt="Sam Williamson's CodeWars stats"/>
