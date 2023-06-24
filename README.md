@@ -18,9 +18,10 @@
 
 
 ```yaml
-{name: Samuel Williamson,
+{
+fullName: "Samuel Williamson",
 usernames: ["sam98963", "WilzoCodes", "sidzilla09"],
-currentOccupation: Full-stack developer at School of Code,
+currentOccupation: "Full-stack developer at School of Code",
 education: [
 "Bachelor's in Music - University of Manchester",
 "Software Engineering Bootcamp - School of Code"
@@ -50,6 +51,7 @@ hobbies: [
 "Football",
 "Gaming",
 "Hiking"
-]}
+]
+}
 
 ```
