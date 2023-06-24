@@ -15,7 +15,7 @@
 ### 🐼
 
 ![Codewars](https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam98963)](https://github.com/sam98963/github-readme-stats)
 
 ```yaml
 {
