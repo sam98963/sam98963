@@ -7,12 +7,16 @@
 <h3 align="center">I'm Sam</h3>
 <h5 align="center">I’m a classically trained musician, triathlete, now ex-pizza chef and the final ingredient to becoming a full-stack person was learning full-stack development with the School of Code.
 </h5>
-<h6 align="center">⬇ Ooop, well here I am just, right below ⬇</h6>
+<h6 align="center">⬇ Ooop, well here I am, just right below ⬇</h6>
+<p align="center">
 <img src="./aquathloncircle.png" align="center" width="400">
+</p>
+<h6 align="center">🐼 I forgot to mention, I'm big into KFP 🐼</h6>
+<p align="center">
+<img src="https://media.tenor.com/8DUxcU2bhFsAAAAC/dont-matter-dont-care.gif" width="720"/>
+<h6 align="center">👨‍💻 Anyway, here's my info... 👨‍💻</h6>
 
 ##
-<p align="center">
-<img src="https://media.tenor.com/8DUxcU2bhFsAAAAC/dont-matter-dont-care.gif" width="1280"/>
 <h2 align="center">My Stats</h2>
 <p align="center">
 <img height=195 src="https://github-readme-stats.vercel.app/api?username=sam98963" alt="Sam Williamson's Github stats"/>
