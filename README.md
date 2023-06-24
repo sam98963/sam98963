@@ -5,12 +5,16 @@
 <img src="https://media.tenor.com/8DUxcU2bhFsAAAAC/dont-matter-dont-care.gif" width="1280"/>
 <h2 align="center">My Stats</h1>
 <p align="center">
-<img height=195 src="https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C" alt="Sam Williamson's CodeWars stats"/>
 <img height=195 src="https://github-readme-stats.vercel.app/api?username=sam98963" alt="Sam Williamson's Github stats"/>
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam98963" alt="Sam Williamson's Language stats"/>
 </p>
 <p align="center">
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam98963" alt="Sam Williamson's Language stats"/>
+<img height=195 src="https://streak-stats.demolab.com?user=sam98963" alt="Sam Williamson's Github Contribution stats"/>
 </p>
+<p align="center">
+<img height=195 src="https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C" alt="Sam Williamson's CodeWars stats"/>
+</p>
+
 <h2 align="center">My Stack</h1>
 <p align="center">
     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
