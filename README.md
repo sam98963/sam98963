@@ -13,3 +13,43 @@
 - 💯 I started the #100daysofcode challenge on Friday 10th March and have been uploading my progress, thoughts and ideas [here].(https://twitter.com/WilzoCodes) - the uploads will be personal projects and personal learning as much as possible - feel free to follow along!!
 - ✏️ I've also recently started writing a blog, which you can find [here](https://medium.com/@szwilliamson01).
 ### 🐼
+
+![Codewars](https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C)
+
+
+```yaml
+{name: Samuel Williamson,
+usernames: ["sam98963", "WilzoCodes", "sidzilla09"],
+currentOccupation: Full-stack developer at School of Code,
+education: [
+"Bachelor's in Music - University of Manchester",
+"Software Engineering Bootcamp - School of Code"
+],
+fieldsOfInterest: [
+"Web Development",
+"Game Devlopement",
+"LLMs and Machine Learning",
+"Cloud Engineering",
+"UI and UX",
+"VR and AR"],
+currentlyLearning: [
+"Docker", 
+"AWS (localstack)",
+"Typescript"
+],
+goalsForThisYear: [
+"Complete First Triathlon (16/07/23)",
+"Land First Role as a Developer",
+"Release First Commercial App",
+"AWS certification"
+],
+hobbies: [
+"Trumpet",
+"Guitar",
+"Run, Cycle, Swim (Triathlon)",
+"Football",
+"Gaming",
+"Hiking"
+]}
+
+```
