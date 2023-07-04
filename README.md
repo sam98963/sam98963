@@ -63,7 +63,7 @@ education: [
 ],
 fieldsOfInterest: [
 "Web Development",
-"Game Devlopement",
+"Game Developement",
 "LLMs and Machine Learning",
 "Cloud Engineering",
 "UI and UX",
