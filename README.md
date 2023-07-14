@@ -29,7 +29,7 @@
 <img height=195 src="https://github.r2v.ch/codewars?user=sam98963&stroke=%23BB432C" alt="Sam Williamson's CodeWars stats"/>
 </p>
 <p align="center">
-[!](https://visitcount.itsvg.in/api?id=sam98963&icon=9&color=3)
+<img src="https://visitcount.itsvg.in/api?id=sam98963&icon=9&color=3" alt="profile visits")
 </p>
 
 <h2 align="center">My Stack</h1>
@@ -100,3 +100,5 @@ hobbies: [
 }
 
 ```
+
+
