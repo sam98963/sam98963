@@ -3,7 +3,6 @@
 </p>
 
 ##
-
 <h3 align="center">I'm Sam</h3>
 <h5 align="center">I’m a classically trained musician, triathlete, now ex-pizza chef and the final ingredient to becoming a full-stack person was learning full-stack development with the School of Code.
 </h5>
@@ -79,7 +78,7 @@ currentlyLearning: [
 "Typescript"
 ],
 goalsForThisYear: [
-"Complete First Triathlon (16/07/23)",
+"Complete First Triathlon (16/07/23)" ✅,
 "Land First Role as a Developer",
 "Release First Commercial App",
 "AWS certification"
