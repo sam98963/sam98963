@@ -10,10 +10,13 @@
 <p align="center">
 <img src="./aquathloncircle.png" align="center" width="400">
 </p>
-<h6 align="center">🐼 I forgot to mention, I'm big into KFP 🐼</h6>
+<h3 align="center">⬇ Have a Look at my portfolio ⬇</h6>
 <p align="center">
-<img src="https://media.tenor.com/8DUxcU2bhFsAAAAC/dont-matter-dont-care.gif" width="720"/>
+    <img width="1512" alt="Screenshot 2023-10-05 at 17 01 14" src="https://github.com/sam98963/sam98963/assets/101294463/5a17f7fe-e516-4477-bd4d-4feb4945b7bf">
+</p>
+<h4 align = "center">The Link is https://wilzo-codes.netlify.app/</h4>
 <h6 align="center">👨‍💻 Anyway, here's my info... 👨‍💻</h6>
+
 
 <h2 align="center">My Stats</h2>
 
