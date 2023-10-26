@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">⬇ Have a Look at my portfolio ⬇</h6>
 <p align="center">
-    <img width="1512" alt="Screenshot 2023-10-05 at 17 01 14" src="https://github.com/sam98963/sam98963/assets/101294463/5a17f7fe-e516-4477-bd4d-4feb4945b7bf">
+    <img width="1512" alt="Portfolio landing page" src="https://github.com/sam98963/my-portfolio/assets/101294463/6a81138d-b9f7-450d-acee-ad08ed0c19cb">
 </p>
 <h4 align = "center">The Link is https://wilzo-codes.netlify.app/</h4>
 <h6 align="center">👨‍💻 Anyway, here's my info... 👨‍💻</h6>
@@ -77,15 +77,15 @@ fieldsOfInterest: [
 "UI and UX",
 "VR and AR"],
 currentlyLearning: [
-"Docker", 
-"AWS (localstack)",
+"Java", 
+"Spring",
 "Typescript"
 ],
 goalsForThisYear: [
 "Complete First Triathlon (16/07/23)" ✅,
 "Land First Role as a Developer",
 "Release First Commercial App",
-"AWS certification"
+"Deploy JavaScript video-game"
 ],
 socialMedia: [
 "LinkedIn - my life",
